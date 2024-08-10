@@ -1,0 +1,138 @@
+{
+    "id": "33abb815",
+    "versionId": "g2ba08816",
+    "eventDate": "21-04-2024",
+    "lastUpdated": "2024-07-21T02:39:15.632+0000",
+    "artist": {
+        "mbid": "e01646f2-2a04-450d-8bf2-0d993082e058",
+        "name": "Phish",
+        "sortName": "Phish",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+    },
+    "venue": {
+        "id": "7bd1c264",
+        "name": "Sphere at The Venetian Resort",
+        "city": {
+            "id": "5506956",
+            "name": "Las Vegas",
+            "state": "Nevada",
+            "stateCode": "NV",
+            "coords": {
+                "lat": 36.1749705,
+                "long": -115.137223
+            },
+            "country": {
+                "code": "US",
+                "name": "United States"
+            }
+        },
+        "url": "https://www.setlist.fm/venue/sphere-at-the-venetian-resort-las-vegas-nv-usa-7bd1c264.html"
+    },
+    "sets": {
+        "set": [
+            {
+                "name": "Set 1:",
+                "song": [
+                    {
+                        "name": "Plasma",
+                        "cover": {
+                            "mbid": "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                            "name": "Trey Anastasio",
+                            "sortName": "Anastasio, Trey",
+                            "disambiguation": "US jam band Phish lead singer",
+                            "url": "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+                        }
+                    },
+                    {
+                        "name": "Evolve"
+                    },
+                    {
+                        "name": "Ghost"
+                    },
+                    {
+                        "name": "The Divided Sky"
+                    },
+                    {
+                        "name": "Shade",
+                        "info": "began with Trey on acoustic guitar"
+                    },
+                    {
+                        "name": "Hey Stranger",
+                        "cover": {
+                            "mbid": "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                            "name": "Trey Anastasio",
+                            "sortName": "Anastasio, Trey",
+                            "disambiguation": "US jam band Phish lead singer",
+                            "url": "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+                        }
+                    },
+                    {
+                        "name": "Character Zero"
+                    }
+                ]
+            },
+            {
+                "name": "Set 2:",
+                "song": [
+                    {
+                        "name": "Oblivion",
+                        "info": ">"
+                    },
+                    {
+                        "name": "Down With Disease"
+                    },
+                    {
+                        "name": "Beneath a Sea of Stars Part 1",
+                        "cover": {
+                            "mbid": "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                            "name": "Trey Anastasio",
+                            "sortName": "Anastasio, Trey",
+                            "disambiguation": "US jam band Phish lead singer",
+                            "url": "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+                        },
+                        "info": ">"
+                    },
+                    {
+                        "name": "Also sprach Zarathustra, op. 30",
+                        "cover": {
+                            "mbid": "4cb43d82-824e-4034-b03d-1a98f36f6e16",
+                            "name": "Richard Strauss",
+                            "sortName": "Strauss, Richard",
+                            "disambiguation": "German composer",
+                            "url": "https://www.setlist.fm/setlists/richard-strauss-3d4ddcb.html"
+                        },
+                        "info": ">"
+                    },
+                    {
+                        "name": "Light",
+                        "info": ">"
+                    },
+                    {
+                        "name": "Ether Edge",
+                        "info": ">"
+                    },
+                    {
+                        "name": "Piper"
+                    },
+                    {
+                        "name": "First Tube"
+                    }
+                ]
+            },
+            {
+                "encore": 1,
+                "song": [
+                    {
+                        "name": "More",
+                        "info": ">"
+                    },
+                    {
+                        "name": "Slave to the Traffic Light"
+                    }
+                ]
+            }
+        ]
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2024/sphere-at-the-venetian-resort-las-vegas-nv-33abb815.html"
+}
