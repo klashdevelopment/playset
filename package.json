@@ -1,0 +1,28 @@
+{
+  "name": "playset",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/joy": "^5.0.0-beta.48",
+    "axios": "^1.7.2",
+    "next": "14.2.5",
+    "next-auth": "^4.24.7",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.8",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
